@@ -4,7 +4,3 @@
 2. Search for **`Sova`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme > Select **Sova**
-
-![](./screenshot-html.png)
-![](./screenshot-css.png)
-![](./screenshot-jsx.png)
