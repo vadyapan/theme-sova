@@ -1,0 +1,33 @@
+{
+  "name": "sova",
+  "displayName": "Sova",
+  "description": "Sova theme for VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "icon": "icon.png",
+  "publisher": "elvados",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "sova",
+    "dark-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadyapan/theme-sova.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sova",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-sova.json"
+      }
+    ]
+  }
+}
