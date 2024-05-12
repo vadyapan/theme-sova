@@ -670,7 +670,7 @@
     {
       "scope": "support.type.property-name.json, string.quoted.double.json",
       "settings": {
-        "fontStyle": ""
+        "foreground": "#CCA879"
       }
     },
 

@@ -5,4 +5,4 @@
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme > **Sova**
 
-![](./assets/cover.png)
+![](./assets/banner.png)
