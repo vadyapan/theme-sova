@@ -334,7 +334,7 @@
     {
       "scope": "meta.definition.function, entity.name.type.class",
       "settings": {
-        "foreground": "#f3f3f3"
+        "foreground": "#94A5FF"
       }
     },
 
@@ -354,21 +354,21 @@
     {
       "scope": "meta.function-call",
       "settings": {
-        "fontStyle": "italic"
+        "foreground": "#DE7AD5"
       }
     },
 
     {
       "scope": "string, support.type.builtin, constant",
       "settings": {
-        "foreground": "#fd9393db"
+        "foreground": "#CCA879"
       }
     },
 
     {
       "scope": "meta.objectliteral, entity.other.attribute-name",
       "settings": {
-        "foreground": "#94a5ff"
+        "foreground": "#7CAED7"
       }
     },
 
@@ -399,7 +399,7 @@
     {
       "scope": "variable.other.constant.object.js, variable.other.constant.object.jsx, variable.other.constant.object.ts, variable.other.constant.object.tsx",
       "settings": {
-        "foreground": "#f3f3f3",
+        "foreground": "#94A5FF",
         "fontStyle": ""
       }
     },
@@ -407,7 +407,7 @@
     {
       "scope": "variable.other.constant.object.js, variable.other.constant.object.jsx, variable.other.constant.object.ts, variable.other.constant.object.tsx",
       "settings": {
-        "foreground": "#f3f3f3",
+        "foreground": "#94A5FF",
         "fontStyle": ""
       }
     },
@@ -455,29 +455,43 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#CCA879",
+        "foreground": "#F3F3F3",
         "fontStyle": ""
       }
     },
 
     {
-      "scope": "support.type.property-name.css, meta.property-name.css, meta.property-list.css, source.css",
+      "scope": "support.type.property-name.css, meta.property-name.css, source.css",
       "settings": {
-        "foreground": "#CA94FF"
+        "foreground": "#C5C5C5"
       }
     },
 
     {
-      "scope": "meta.property-value.css, meta.property-list.css",
+      "scope": "meta.property-list.css",
       "settings": {
-        "foreground": "#CCA879"
+        "foreground": "#8A8A8A"
       }
     },
 
     {
-      "scope": "meta.interface, keyword.operator.type.annotation, meta.field.declaration, meta.type.declaration, meta.type.annotation, meta.interface, meta.type.annotation entity.name.type.module, meta.namespace.declaration punctuation.terminator, entity.name.type.module",
+      "scope": "meta.property-value.css",
+      "settings": {
+        "foreground": "#F3F3F3"
+      }
+    },
+
+    {
+      "scope": "meta.interface, keyword.operator.type.annotation, meta.field.declaration, meta.type.declaration, meta.type.annotation, meta.interface, meta.type.annotation, meta.namespace.declaration punctuation.terminator",
       "settings": {
         "foreground": "#93A27E"
+      }
+    },
+
+    {
+      "scope": "entity.name.type.module",
+      "settings": {
+        "foreground": "#DE7AD5"
       }
     },
 
@@ -497,17 +511,23 @@
     },
 
     {
-      "scope": "entity.name.type.interface, entity.name.type.alias, meta.type.infer entity.name.type, meta.interface, meta.interface variable.object.property, meta.interface entity.name.function",
+      "scope": "entity.name.type.interface, entity.name.type.alias, meta.type.infer entity.name.type, meta.interface variable.parameter, meta.interface entity.name.function",
       "settings": {
         "foreground": "#9ec5a4"
       }
     },
 
     {
+      "scope": "meta.interface variable.object.property",
+      "settings": {
+        "foreground": "#93A27E"
+      }
+    },
+
+    {
       "scope": "entity.name.type, meta.interface, meta.interface entity.other.inherited-class, meta.interface variable.other.property",
       "settings": {
-        "foreground": "#9ec5a4",
-        "fontStyle": ""
+        "foreground": "#9ec5a4"
       }
     },
 
@@ -542,7 +562,7 @@
     {
       "scope": "storage.type.class.jsdoc, storage.type.class.tsdoc",
       "settings": {
-        "foreground": "#fba83b"
+        "foreground": "#a788aa"
       }
     },
 
@@ -556,7 +576,7 @@
     {
       "scope": "comment, comment.block.documentation, punctuation.definition.comment, punctuation.definition.block.tag.jsdoc, punctuation.definition.block.tag.tsdoc",
       "settings": {
-        "foreground": "#8A8A8A",
+        "foreground": "#a788aa",
         "fontStyle": "italic"
       }
     },
@@ -572,7 +592,7 @@
     {
       "scope": "meta.paragraph.markdown, punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#f3f3f3"
+        "foreground": "#94A5FF"
       }
     },
 
@@ -622,7 +642,7 @@
     {
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#94a5ff"
+        "foreground": "#7CAED7"
       }
     },
 
@@ -636,7 +656,7 @@
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#F3F3F3"
+        "foreground": "#94A5FF"
       }
     },
 
@@ -686,6 +706,13 @@
       "scope": "support.type.property-name.json",
       "settings": {
         "foreground": "#CA94FF"
+      }
+    },
+
+    {
+      "scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.begin.jsx, punctuation.definition.tag.end.jsx, punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.end.js.jsx, punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx, punctuation.definition.tag.begin.ts.tsx, punctuation.definition.tag.end.ts.tsx",
+      "settings": {
+        "foreground": "#8A8A8A"
       }
     }
   ]
