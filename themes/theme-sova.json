@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "colors": {
     "editor.background": "#000000",
-    "editor.foreground": "#8A8A8A",
+    "editor.foreground": "#C5C5C5",
     "editorLineNumber.foreground": "#3c3c3c",
     "editorLineNumber.activeForeground": "#969696",
     "editorCursor.foreground": "#DCE0B3",
@@ -384,14 +384,6 @@
       "scope": "storage.type, variable.object.property, variable.other.constant.object, support.class, keyword.operator.rest, keyword.operator.spread, keyword.operator.expression.typeof, keyword.operator.expression.instanceof, keyword.operator.assignment, keyword.control.import, keyword.control.from, meta.import keyword.control.as",
       "settings": {
         "foreground": "#8a8a8a",
-        "fontStyle": ""
-      }
-    },
-
-    {
-      "scope": "meta.js.children, meta.jsx.children, meta.ts.children, meta.tsx.children",
-      "settings": {
-        "foreground": "#aaaaaa",
         "fontStyle": ""
       }
     },
