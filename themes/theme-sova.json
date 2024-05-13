@@ -391,7 +391,7 @@
     {
       "scope": "meta.js.children, meta.jsx.children, meta.ts.children, meta.tsx.children",
       "settings": {
-        "foreground": "#8A8A8A",
+        "foreground": "#aaaaaa",
         "fontStyle": ""
       }
     },
@@ -415,7 +415,7 @@
     {
       "scope": "meta.var.expr",
       "settings": {
-        "foreground": "#8A8A8A",
+        "foreground": "#aaaaaa",
         "fontStyle": ""
       }
     },
@@ -463,14 +463,14 @@
     {
       "scope": "support.type.property-name.css, meta.property-name.css, source.css",
       "settings": {
-        "foreground": "#8A8A8A"
+        "foreground": "#aaaaaa"
       }
     },
 
     {
       "scope": "meta.property-list.css",
       "settings": {
-        "foreground": "#8A8A8A"
+        "foreground": "#aaaaaa"
       }
     },
 
@@ -534,7 +534,7 @@
     {
       "scope": "support.type.primitive, meta.type.parameters string, meta.type.annotation string, meta.type.annotation support.type.builtin, meta.interface support.type.builtin, meta.type.declaration support.type.builtin, meta.namespace.declaration string, meta.interface constant",
       "settings": {
-        "foreground": "#8A8A8A"
+        "foreground": "#aaaaaa"
       }
     },
 
@@ -663,7 +663,7 @@
     {
       "scope": "meta.structure.dictionary.value.json support.type.property-name.json",
       "settings": {
-        "foreground": "#8A8A8A"
+        "foreground": "#aaaaaa"
       }
     },
 
