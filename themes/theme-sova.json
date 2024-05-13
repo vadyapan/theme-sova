@@ -437,6 +437,13 @@
     },
 
     {
+      "scope": "keyword.control.trycatch.js, keyword.control.trycatch.ts",
+      "settings": {
+        "foreground": "#8A8A8A"
+      }
+    },
+
+    {
       "scope": "storage.modifier",
       "settings": {
         "foreground": "#B3A5B1",
