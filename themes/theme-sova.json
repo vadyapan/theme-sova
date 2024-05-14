@@ -327,7 +327,7 @@
     {
       "scope": "keyword.control.flow, keyword.control.conditional, keyword.operator.ternary, keyword.control.loop, keyword.control.switch",
       "settings": {
-        "foreground": "#B3A5B1"
+        "foreground": "#8A8A8A"
       }
     },
 
@@ -354,7 +354,7 @@
     {
       "scope": "meta.function-call",
       "settings": {
-        "foreground": "#B3A5B1"
+        "foreground": "#aaaaaa"
       }
     },
 
@@ -423,7 +423,7 @@
     {
       "scope": "support.class",
       "settings": {
-        "foreground": "#B3A5B1",
+        "foreground": "#8A8A8A",
         "fontStyle": "bold"
       }
     },
@@ -438,7 +438,7 @@
     {
       "scope": "storage.modifier",
       "settings": {
-        "foreground": "#B3A5B1",
+        "foreground": "#8A8A8A",
         "fontStyle": ""
       }
     },
@@ -490,7 +490,7 @@
     {
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#B3A5B1"
+        "foreground": "#AAAAAA"
       }
     },
 
@@ -583,7 +583,7 @@
     {
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#B3A5B1",
+        "foreground": "#8A8A8A",
         "fontStyle": "bold"
       }
     },
@@ -683,7 +683,7 @@
     {
       "scope": "entity.name.function.target.makefile, keyword.control.@.makefile",
       "settings": {
-        "foreground": "#B3A5B1"
+        "foreground": "#8A8A8A"
       }
     },
 
