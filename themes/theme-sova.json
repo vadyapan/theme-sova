@@ -311,7 +311,7 @@
     {
       "scope": "meta.embedded.line",
       "settings": {
-        "foreground": "#8A8A8A",
+        "foreground": "#aaaaaa",
         "fontStyle": ""
       }
     },
@@ -361,7 +361,7 @@
     {
       "scope": "string, support.type.builtin, constant",
       "settings": {
-        "foreground": "#C1A784"
+        "foreground": "#9e886c"
       }
     },
 
@@ -423,13 +423,13 @@
     {
       "scope": "support.class",
       "settings": {
-        "foreground": "#8A8A8A",
+        "foreground": "#B3BAE0",
         "fontStyle": "bold"
       }
     },
 
     {
-      "scope": "keyword.control.trycatch.js, keyword.control.trycatch.ts",
+      "scope": "keyword.control.trycatch.js, keyword.control.trycatch.jsx, keyword.control.trycatch.ts, keyword.control.trycatch.tsx",
       "settings": {
         "foreground": "#8A8A8A"
       }
@@ -669,7 +669,7 @@
     {
       "scope": "support.type.property-name.json, string.quoted.double.json",
       "settings": {
-        "foreground": "#C1A784"
+        "foreground": "#9e886c"
       }
     },
 
