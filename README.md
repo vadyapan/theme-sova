@@ -1,4 +1,4 @@
-![](./assets/header.png)
+![](./assets/header-cover.png)
 
 # Installation
 
