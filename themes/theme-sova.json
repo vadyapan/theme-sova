@@ -211,7 +211,7 @@
     "settings.focusedRowBackground": "#d6d6dd07",
     "settings.headerForeground": "#d6d6dd",
     "sideBar.background": "#181818",
-    "sideBar.border": "#383838",
+    "sideBar.border": "#181818",
     "sideBar.dropBackground": "#d6d6dd00",
     "sideBar.foreground": "#d1d1d1",
     "sideBarSectionHeader.background": "#18181800",
@@ -304,13 +304,13 @@
     {
       "scope": "support.type.primitive",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -328,13 +328,13 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -376,7 +376,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -393,7 +393,7 @@
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -580,7 +580,7 @@
     {
       "scope": "support.type.builtin",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -596,7 +596,7 @@
         "punctuation.definition.bold.markdown"
       ],
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
@@ -719,7 +719,7 @@
     {
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#738FF7"
+        "foreground": "#7286D6"
       }
     },
     {
