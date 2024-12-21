@@ -2,7 +2,7 @@
   "name": "sova",
   "displayName": "Sova",
   "description": "Sova theme for VS Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.76.0"
   },
