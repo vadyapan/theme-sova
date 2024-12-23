@@ -2,11 +2,11 @@
   "name": "sova",
   "displayName": "Sova",
   "description": "Sova theme for VS Code",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.76.0"
   },
-  "icon": "",
+  "icon": "icon.png",
   "publisher": "elvados",
   "categories": [
     "Themes"
@@ -28,6 +28,11 @@
         "label": "Sova",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-sova.json"
+      },
+      {
+        "label": "Sova",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-sova-semantic.json"
       }
     ]
   }

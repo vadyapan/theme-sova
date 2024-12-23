@@ -1,6 +1,7 @@
 {
-  "name": "Sova",
+  "name": "Sova Semantic",
   "type": "dark",
+  "semanticHighlighting.enabled": true,
   "colors": {
     "activityBar.activeBackground": "#181818",
     "activityBar.background": "#181818",
