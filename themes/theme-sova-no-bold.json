@@ -1,5 +1,5 @@
 {
-  "name": "Sova",
+  "name": "Sova (No Bold)",
   "type": "dark",
   "colors": {
     "activityBar.activeBackground": "#101010",
@@ -295,7 +295,7 @@
     {
       "scope": "strong",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -343,14 +343,14 @@
       "scope": ["entity.name.tag.css", "entity.name.tag.less"],
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -367,7 +367,7 @@
       ],
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -386,14 +386,14 @@
       "scope": "markup.bold",
       "settings": {
         "foreground": "#D5D8E0",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
         "foreground": "#9B7083",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -649,7 +649,7 @@
       ],
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -694,7 +694,7 @@
       "scope": "variable.other.assignment.go",
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -739,7 +739,7 @@
       ],
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -786,7 +786,7 @@
       ],
       "settings": {
         "foreground": "#6EA29D",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {

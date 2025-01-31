@@ -1,5 +1,5 @@
 {
-  "name": "Sova",
+  "name": "Sova Soft",
   "type": "dark",
   "colors": {
     "activityBar.activeBackground": "#101010",
@@ -483,19 +483,19 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
       "scope": ["storage.modifier", "keyword.operator.noexcept"],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -535,7 +535,7 @@
     {
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -552,19 +552,19 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -581,7 +581,7 @@
         "keyword.operator.wordlike"
       ],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -713,7 +713,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -727,7 +727,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
@@ -803,13 +803,13 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#CECFA4"
+        "foreground": "#808080"
       }
     },
     {
