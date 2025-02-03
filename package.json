@@ -2,7 +2,7 @@
   "name": "sova",
   "displayName": "Sova",
   "description": "Sova theme for VS Code",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -33,16 +33,6 @@
         "label": "Sova Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-sova-soft.json"
-      },
-      {
-        "label": "Sova (No Bold)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/theme-sova-no-bold.json"
-      },
-      {
-        "label": "Sova Soft (No Bold)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/theme-sova-soft-no-bold.json"
       }
     ]
   }
