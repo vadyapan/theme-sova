@@ -79,12 +79,12 @@
     "editor.stackFrameHighlightBackground": "#e2bd3a20",
     "editor.wordHighlightBackground": "#515c7e44",
     "editor.wordHighlightStrongBackground": "#515c7e55",
-    "editorBracketHighlight.foreground1": "#D79175",
-    "editorBracketHighlight.foreground2": "#D7B175",
-    "editorBracketHighlight.foreground3": "#7592D7",
-    "editorBracketHighlight.foreground4": "#BCCEBA",
-    "editorBracketHighlight.foreground5": "#a9b1d6",
-    "editorBracketHighlight.foreground6": "#D79175",
+    "editorBracketHighlight.foreground1": "#6E74A6",
+    "editorBracketHighlight.foreground2": "#6E74A6",
+    "editorBracketHighlight.foreground3": "#6E74A6",
+    "editorBracketHighlight.foreground4": "#6E74A6",
+    "editorBracketHighlight.foreground5": "#6E74A6",
+    "editorBracketHighlight.foreground6": "#6E74A6",
     "editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
     "editorBracketMatch.background": "#16161e",
     "editorBracketMatch.border": "#42465d",
@@ -377,7 +377,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#D6AAAA"
+        "foreground": "#6E74A6"
       }
     },
     {
