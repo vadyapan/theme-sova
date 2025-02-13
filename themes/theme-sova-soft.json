@@ -546,6 +546,12 @@
       }
     },
     {
+      "scope": "keyword.operator.address.go",
+      "settings": {
+        "foreground": "#D6B7AA"
+      }
+    },
+    {
       "scope": "meta.property-name support.type.property-name",
       "settings": {
         "fontStyle": ""
