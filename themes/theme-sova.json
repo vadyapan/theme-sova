@@ -1,5 +1,5 @@
 {
-  "name": "Sova Soft",
+  "name": "Sova",
   "type": "dark",
   "colors": {
     "activityBar.background": "#000000",
@@ -377,7 +377,7 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#D6AAAA"
+        "foreground": "#D69393"
       }
     },
     {
