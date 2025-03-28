@@ -1,0 +1,40 @@
+{
+  "name": "sova",
+  "displayName": "sova",
+  "description": "Modern theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "publisher": "elvados",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadyapan/theme-sova.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sova",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-sova.json"
+      },
+      {
+        "label": "Sova Deep Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-sova-deep-blue.json"
+      },
+      {
+        "label": "Sova Light",
+        "uiTheme": "vs",
+        "path": "./themes/theme-sova-light.json"
+      }
+    ]
+  }
+}
